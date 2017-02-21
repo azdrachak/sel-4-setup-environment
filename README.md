@@ -1,0 +1,1 @@
+Setup environment for the Selenium Java testing.
